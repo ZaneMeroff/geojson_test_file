@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "locationName": "Salida, CO",
     "coordinates": [
       [
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": "2",
     "locationName": "Test, CO",
     "coordinates": [
       [
