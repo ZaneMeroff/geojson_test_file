@@ -1,7 +1,8 @@
 [
   {
-    "id": "1",
-    "locationName": "Salida, CO",
+    "id": "001",
+    "labelName": "Salida, CO",
+    "state": "CO",
     "link": "https://niftymapworks.com/products/crested-butte-region",
     "coordinates": [
       [-106.512955190280394, 38.938149780547057],
@@ -12,8 +13,9 @@
     ]
   },
   {
-    "id": "2",
-    "locationName": "Test Area 1, CO",
+    "id": "002",
+    "labelName": "Test Area 1, CO",
+    "state": "CO",
     "link": "https://niftymapworks.com/products/crested-butte-region",
     "coordinates": [
       [-108.512955190280394, 37.938149780547057],
@@ -24,8 +26,9 @@
     ]
   },
   {
-    "id": "3",
-    "locationName": "Test Area 2, CO",
+    "id": "003",
+    "labelName": "Test Area 2, CO",
+    "state": "CO",
     "link": "https://niftymapworks.com/products/crested-butte-region",
     "coordinates": [
       [-104.512955190280394, 39.938149780547057],
