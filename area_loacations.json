@@ -94,7 +94,7 @@
     "id": "008",
     "labelName": "Golden & Front Range Region",
     "state": "Colorado",
-    "link": "https://niftymapworks.com/",
+    "link": "https://niftymapworks.com",
     "coordinates": [
       [-105.748977579888, 39.8481065343695],
       [-105.012251826867, 39.8467191520391],
@@ -107,7 +107,7 @@
     "id": "009",
     "labelName": "Leadville Region",
     "state": "Colorado",
-    "link": "https://niftymapworks.com/",
+    "link": "https://niftymapworks.com",
     "coordinates": [
       [-106.631890004778, 39.4648707612693],
       [-105.899307360783, 39.46903993607],
@@ -120,7 +120,7 @@
     "id": "010",
     "labelName": "Great Sand Dunes Region",
     "state": "Colorado",
-    "link": "https://niftymapworks.com/",
+    "link": "https://niftymapworks.com",
     "coordinates": [
       [-105.955289424986, 37.9738828026176],
       [-105.237694847402, 37.9737159694135],
@@ -133,7 +133,7 @@
     "id": "011",
     "labelName": "Sangre de Cristo Region",
     "state": "Colorado",
-    "link": "https://niftymapworks.com/",
+    "link": "https://niftymapworks.com",
     "coordinates": [
       [-106.038607151861, 38.2971644624295],
       [-105.317844290281, 38.2975261111181],
@@ -146,7 +146,7 @@
     "id": "012",
     "labelName": "Winter Park Region",
     "state": "Colorado",
-    "link": "https://niftymapworks.com/",
+    "link": "https://niftymapworks.com",
     "coordinates": [
       [-106.147813536963, 40.2148570393086],
       [-105.407147064462, 40.2160279542399],
@@ -159,7 +159,7 @@
     "id": "013",
     "labelName": "Mount Everest Region",
     "state": "International",
-    "link": "https://niftymapworks.com/",
+    "link": "https://niftymapworks.com",
     "coordinates": [
       [86.5970561049803, 28.257369851014],
       [87.2518006725545, 28.2563033677767],
@@ -172,7 +172,7 @@
     "id": "014",
     "labelName": "Mount Aconcagua Region",
     "state": "International",
-    "link": "https://niftymapworks.com/",
+    "link": "https://niftymapworks.com",
     "coordinates": [
       [-69.6132733667838, -32.9541371431029],
       [-70.3965520629378, -32.958399651949],
@@ -185,7 +185,7 @@
     "id": "015",
     "labelName": "Mount Denali Region",
     "state": "Alaska",
-    "link": "https://niftymapworks.com/",
+    "link": "https://niftymapworks.com",
     "coordinates": [
       [-151.651479494974, 63.3586753840062],
       [-150.360358690541, 63.3406287489459],
@@ -198,7 +198,7 @@
     "id": "016",
     "labelName": "Mount Kilimanjaro Region",
     "state": "International",
-    "link": "https://niftymapworks.com/",
+    "link": "https://niftymapworks.com",
     "coordinates": [
       [37.0412479330178, -2.80410196165253],
       [37.6177620498639, -2.80492917312466],
@@ -208,10 +208,10 @@
     ]
   },
   {
-    "id": "016",
+    "id": "017",
     "labelName": "Mount Elbrus Region",
     "state": "International",
-    "link": "https://niftymapworks.com/",
+    "link": "https://niftymapworks.com",
     "coordinates": [
       [42.0448713879413, 43.6259337689911],
       [42.838864827712, 43.6437133498614],
@@ -221,10 +221,10 @@
     ]
   },
   {
-    "id": "017",
+    "id": "018",
     "labelName": "Mount Vinson Region",
     "state": "International",
-    "link": "https://niftymapworks.com/",
+    "link": "https://niftymapworks.com",
     "coordinates": [
       [-86.8614086554288, -78.8263408541768],
       [-86.8680923681748, -78.2521540511696],
@@ -234,10 +234,10 @@
     ]
   },
   {
-    "id": "018",
+    "id": "019",
     "labelName": "Mount Puncak Jaya Region",
     "state": "International",
-    "link": "https://niftymapworks.com/",
+    "link": "https://niftymapworks.com",
     "coordinates": [
       [136.862161564021, -3.7703820304799],
       [137.439253547799, -3.76895068018263],
@@ -247,10 +247,10 @@
     ]
   },
   {
-    "id": "019",
+    "id": "020",
     "labelName": "Mont Blanc Region",
     "state": "International",
-    "link": "https://niftymapworks.com/",
+    "link": "https://niftymapworks.com",
     "coordinates": [
       [6.47667466258734, 46.1593964104623],
       [7.30633851083347, 46.1747061467766],
@@ -260,10 +260,10 @@
     ]
   },
   {
-    "id": "020",
+    "id": "021",
     "labelName": "Mount Fuji Region",
     "state": "International",
-    "link": "https://niftymapworks.com/",
+    "link": "https://niftymapworks.com",
     "coordinates": [
       [138.385108658104, 35.6139323743151],
       [139.092472831623, 35.6272151679849],
@@ -273,10 +273,10 @@
     ]
   },
   {
-    "id": "021",
+    "id": "022",
     "labelName": "Mount Rainier Region",
     "state": "Washington",
-    "link": "https://niftymapworks.com/",
+    "link": "https://niftymapworks.com",
     "coordinates": [
       [-122.166447993969, 47.1370476054526],
       [-121.32169746292, 47.1277842856421],
@@ -286,10 +286,10 @@
     ]
   },
   {
-    "id": "022",
+    "id": "023",
     "labelName": "Mount K2 Region",
     "state": "International",
-    "link": "https://niftymapworks.com/",
+    "link": "https://niftymapworks.com",
     "coordinates": [
       [76.1989644292862, 36.1645967567497],
       [76.91123136987, 36.155344413781],
